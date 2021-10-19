@@ -1,0 +1,10 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: server-config
+    
+greeting-service:
+  greeting: ola-mundo-prod
+  default-value: mundo-prod
