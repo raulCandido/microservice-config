@@ -3,5 +3,5 @@ spring:
     name: server-config
     
 greeting-service:
-  greeting: ola-mundo-dev
-  default-value: mundo-dev
+  greeting: ola-mundo-dev-alterando
+  default-value: mundo-dev-alterando
